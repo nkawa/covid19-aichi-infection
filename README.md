@@ -8,7 +8,12 @@ https://github.com/nkawa/covid19-aichi-infection/blob/master/covid19_aichi202005
 図を見る限り、３～４つの大きな感染集団があることがわかります。
 
 コードも公開予定ですが、整理できていないので、とりあえずできているデータだけでも公開します。
+（泥臭いデータクレンジングなどがいろいろあります）
 
+### TODO
+- コード整理（公開に向けて）
+- 外部からの感染情報（海外など）の追加
+- 感染者重みの計算
 
 
 ## 利用データ
@@ -22,7 +27,13 @@ https://www.pref.aichi.jp/site/covid19-aichi/kansensya-kensa.html
 https://github.com/code4nagoya/covid19/blob/development/data/patients.csv
 
 
+
+
+## 連絡先：
 この件、興味ある方は河口の twitter @nkawa　( https://twitter.com/nkawa ) 
-Facebook ( https://fb.me/nobuo.kawaguchi )などにご連絡ください。
+もしくは、Facebook ( https://fb.me/nobuo.kawaguchi )などにご連絡ください。
+
+もっとカッコよくしてくれるのも大歓迎です。
+
 
 
