@@ -1,0 +1,4982 @@
+[
+    {
+        "id": 1,
+        "date": "2020/01/26 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": "中国",
+        "city": "中国武漢市",
+        "reason": "中国",
+        "connects": ""
+    },
+    {
+        "id": 2,
+        "date": "2020/01/28 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": "中国",
+        "city": "中国武漢市",
+        "reason": "中国",
+        "connects": ""
+    },
+    {
+        "id": 3,
+        "date": "2020/02/14 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "アメリカ",
+        "connects": ""
+    },
+    {
+        "id": 4,
+        "date": "2020/02/15 00:00",
+        "sex": "女性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "妻",
+        "connects": "3"
+    },
+    {
+        "id": 5,
+        "date": "2020/02/16 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "尾張地方",
+        "reason": "接触",
+        "connects": "4"
+    },
+    {
+        "id": 6,
+        "date": "2020/02/17 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "尾張地方",
+        "reason": "接触",
+        "connects": "5"
+    },
+    {
+        "id": 7,
+        "date": "2020/02/18 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "尾張地方",
+        "reason": "接触",
+        "connects": "5,6"
+    },
+    {
+        "id": 8,
+        "date": "2020/02/19 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "4"
+    },
+    {
+        "id": 9,
+        "date": "2020/02/20 00:00",
+        "sex": "男性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "4"
+    },
+    {
+        "id": 10,
+        "date": "2020/02/21 00:00",
+        "sex": "男性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "4"
+    },
+    {
+        "id": 11,
+        "date": "2020/02/21 00:00",
+        "sex": "女性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "8"
+    },
+    {
+        "id": 12,
+        "date": "2020/02/22 00:00",
+        "sex": "女性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "4"
+    },
+    {
+        "id": 13,
+        "date": "2020/02/22 00:00",
+        "sex": "女性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "4"
+    },
+    {
+        "id": 14,
+        "date": "2020/02/22 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "8"
+    },
+    {
+        "id": 15,
+        "date": "2020/02/22 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "8"
+    },
+    {
+        "id": 16,
+        "date": "2020/02/23 00:00",
+        "sex": "女性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "4"
+    },
+    {
+        "id": 17,
+        "date": "2020/02/23 00:00",
+        "sex": "男性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "4"
+    },
+    {
+        "id": 18,
+        "date": "2020/02/25 00:00",
+        "sex": "女性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "4"
+    },
+    {
+        "id": 19,
+        "date": "2020/02/25 00:00",
+        "sex": "女性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "4"
+    },
+    {
+        "id": 20,
+        "date": "2020/02/25 00:00",
+        "sex": "女性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "8"
+    },
+    {
+        "id": 21,
+        "date": "2020/02/26 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "8"
+    },
+    {
+        "id": 22,
+        "date": "2020/02/26 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "8"
+    },
+    {
+        "id": 23,
+        "date": "2020/02/26 00:00",
+        "sex": "男性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "8"
+    },
+    {
+        "id": 24,
+        "date": "2020/02/26 00:00",
+        "sex": "男性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "15"
+    },
+    {
+        "id": 25,
+        "date": "2020/02/26 00:00",
+        "sex": "女性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "妻",
+        "connects": "9"
+    },
+    {
+        "id": 26,
+        "date": "2020/02/27 00:00",
+        "sex": "女性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "15"
+    },
+    {
+        "id": 27,
+        "date": "2020/02/27 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "14"
+    },
+    {
+        "id": 28,
+        "date": "2020/02/28 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "夫",
+        "connects": "26"
+    },
+    {
+        "id": 29,
+        "date": "2020/02/29 00:00",
+        "sex": "女性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 30,
+        "date": "2020/03/01 00:00",
+        "sex": "女性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "29"
+    },
+    {
+        "id": 31,
+        "date": "2020/03/01 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "29"
+    },
+    {
+        "id": 32,
+        "date": "2020/03/01 00:00",
+        "sex": "女性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 33,
+        "date": "2020/03/03 00:00",
+        "sex": "女性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "三河地方",
+        "reason": "接触",
+        "connects": "19"
+    },
+    {
+        "id": 34,
+        "date": "2020/03/03 00:00",
+        "sex": "男性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "三河地方",
+        "reason": "夫",
+        "connects": "33"
+    },
+    {
+        "id": 35,
+        "date": "2020/03/03 00:00",
+        "sex": "女性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "尾張地方",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 36,
+        "date": "2020/03/03 00:00",
+        "sex": "男性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "尾張地方",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 37,
+        "date": "2020/03/03 00:00",
+        "sex": "女性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "30"
+    },
+    {
+        "id": 38,
+        "date": "2020/03/03 00:00",
+        "sex": "女性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "30"
+    },
+    {
+        "id": 39,
+        "date": "2020/03/03 00:00",
+        "sex": "女性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "30"
+    },
+    {
+        "id": 40,
+        "date": "2020/03/03 00:00",
+        "sex": "女性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 41,
+        "date": "2020/03/03 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 42,
+        "date": "2020/03/04 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "三河地方",
+        "reason": "家族",
+        "connects": "33,34"
+    },
+    {
+        "id": 43,
+        "date": "2020/03/04 00:00",
+        "sex": "男性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "三河地方",
+        "reason": "家族",
+        "connects": "33,34"
+    },
+    {
+        "id": 44,
+        "date": "2020/03/04 00:00",
+        "sex": "女性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "夫",
+        "connects": "22"
+    },
+    {
+        "id": 45,
+        "date": "2020/03/04 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "29,31"
+    },
+    {
+        "id": 46,
+        "date": "2020/03/04 00:00",
+        "sex": "女性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "30"
+    },
+    {
+        "id": 47,
+        "date": "2020/03/04 00:00",
+        "sex": "男性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "30"
+    },
+    {
+        "id": 48,
+        "date": "2020/03/04 00:00",
+        "sex": "男性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "38"
+    },
+    {
+        "id": 49,
+        "date": "2020/03/04 00:00",
+        "sex": "男性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "38"
+    },
+    {
+        "id": 50,
+        "date": "2020/03/05 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "尾張地方",
+        "reason": "フランス",
+        "connects": ""
+    },
+    {
+        "id": 51,
+        "date": "2020/03/05 00:00",
+        "sex": "女性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "4"
+    },
+    {
+        "id": 52,
+        "date": "2020/03/05 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "8"
+    },
+    {
+        "id": 53,
+        "date": "2020/03/05 00:00",
+        "sex": "女性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "29"
+    },
+    {
+        "id": 54,
+        "date": "2020/03/05 00:00",
+        "sex": "女性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "38"
+    },
+    {
+        "id": 55,
+        "date": "2020/03/05 00:00",
+        "sex": "女性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "38"
+    },
+    {
+        "id": 56,
+        "date": "2020/03/05 00:00",
+        "sex": "男性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "38"
+    },
+    {
+        "id": 57,
+        "date": "2020/03/05 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 58,
+        "date": "2020/03/06 00:00",
+        "sex": "男性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "18"
+    },
+    {
+        "id": 59,
+        "date": "2020/03/06 00:00",
+        "sex": "男性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "46"
+    },
+    {
+        "id": 60,
+        "date": "2020/03/06 00:00",
+        "sex": "男性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "38"
+    },
+    {
+        "id": 61,
+        "date": "2020/03/06 00:00",
+        "sex": "女性",
+        "age": "90代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "38"
+    },
+    {
+        "id": 62,
+        "date": "2020/03/06 00:00",
+        "sex": "女性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "38"
+    },
+    {
+        "id": 63,
+        "date": "2020/03/07 00:00",
+        "sex": "女性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "三河地方",
+        "reason": "接触",
+        "connects": "34"
+    },
+    {
+        "id": 64,
+        "date": "2020/03/07 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "尾張地方",
+        "reason": "接触",
+        "connects": "81"
+    },
+    {
+        "id": 65,
+        "date": "2020/03/07 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "38"
+    },
+    {
+        "id": 66,
+        "date": "2020/03/07 00:00",
+        "sex": "男性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "38"
+    },
+    {
+        "id": 67,
+        "date": "2020/03/07 00:00",
+        "sex": "男性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "48"
+    },
+    {
+        "id": 68,
+        "date": "2020/03/07 00:00",
+        "sex": "女性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "67"
+    },
+    {
+        "id": 69,
+        "date": "2020/03/07 00:00",
+        "sex": "男性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "名古屋市事例と接触",
+        "connects": ""
+    },
+    {
+        "id": 70,
+        "date": "2020/03/08 00:00",
+        "sex": "男性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "市内の陽性患者と接触",
+        "connects": ""
+    },
+    {
+        "id": 71,
+        "date": "2020/03/08 00:00",
+        "sex": "女性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "61"
+    },
+    {
+        "id": 72,
+        "date": "2020/03/08 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 73,
+        "date": "2020/03/08 00:00",
+        "sex": "男性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "38"
+    },
+    {
+        "id": 74,
+        "date": "2020/03/08 00:00",
+        "sex": "女性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "38"
+    },
+    {
+        "id": 75,
+        "date": "2020/03/08 00:00",
+        "sex": "女性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "38"
+    },
+    {
+        "id": 76,
+        "date": "2020/03/08 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "75"
+    },
+    {
+        "id": 77,
+        "date": "2020/03/08 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "48"
+    },
+    {
+        "id": 78,
+        "date": "2020/03/08 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "77"
+    },
+    {
+        "id": 79,
+        "date": "2020/03/08 00:00",
+        "sex": "男性",
+        "age": "90代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "69"
+    },
+    {
+        "id": 80,
+        "date": "2020/03/08 00:00",
+        "sex": "女性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "大阪市内ライブハウス",
+        "connects": ""
+    },
+    {
+        "id": 81,
+        "date": "2020/03/09 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "尾張地方",
+        "reason": "大分市内の店舗",
+        "connects": ""
+    },
+    {
+        "id": 82,
+        "date": "2020/03/09 00:00",
+        "sex": "男性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "38"
+    },
+    {
+        "id": 83,
+        "date": "2020/03/09 00:00",
+        "sex": "女性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "48"
+    },
+    {
+        "id": 84,
+        "date": "2020/03/09 00:00",
+        "sex": "女性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "79"
+    },
+    {
+        "id": 85,
+        "date": "2020/03/09 00:00",
+        "sex": "女性",
+        "age": "90代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "56"
+    },
+    {
+        "id": 86,
+        "date": "2020/03/09 00:00",
+        "sex": "女性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "39"
+    },
+    {
+        "id": 87,
+        "date": "2020/03/10 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "尾張地方",
+        "reason": "大分市内の店舗",
+        "connects": ""
+    },
+    {
+        "id": 88,
+        "date": "2020/03/10 00:00",
+        "sex": "女性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "尾張地方",
+        "reason": "家族",
+        "connects": "81"
+    },
+    {
+        "id": 89,
+        "date": "2020/03/10 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "尾張地方",
+        "reason": "接触",
+        "connects": "64"
+    },
+    {
+        "id": 90,
+        "date": "2020/03/10 00:00",
+        "sex": "男性",
+        "age": "90代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "69"
+    },
+    {
+        "id": 91,
+        "date": "2020/03/10 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "55"
+    },
+    {
+        "id": 92,
+        "date": "2020/03/10 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触（娘）",
+        "connects": "55"
+    },
+    {
+        "id": 93,
+        "date": "2020/03/10 00:00",
+        "sex": "女性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "38"
+    },
+    {
+        "id": 94,
+        "date": "2020/03/10 00:00",
+        "sex": "男性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "69"
+    },
+    {
+        "id": 95,
+        "date": "2020/03/10 00:00",
+        "sex": "女性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "48"
+    },
+    {
+        "id": 96,
+        "date": "2020/03/10 00:00",
+        "sex": "女性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "67,68,72"
+    },
+    {
+        "id": 97,
+        "date": "2020/03/10 00:00",
+        "sex": "女性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "23"
+    },
+    {
+        "id": 98,
+        "date": "2020/03/10 00:00",
+        "sex": "男性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "69"
+    },
+    {
+        "id": 99,
+        "date": "2020/03/10 00:00",
+        "sex": "不明",
+        "age": "",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 100,
+        "date": "2020/03/11 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "48"
+    },
+    {
+        "id": 101,
+        "date": "2020/03/11 00:00",
+        "sex": "女性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "48"
+    },
+    {
+        "id": 102,
+        "date": "2020/03/11 00:00",
+        "sex": "男性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "56"
+    },
+    {
+        "id": 103,
+        "date": "2020/03/11 00:00",
+        "sex": "女性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "岡崎市",
+        "reason": "接触",
+        "connects": "34"
+    },
+    {
+        "id": 104,
+        "date": "2020/03/11 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "岡崎市",
+        "reason": "家族",
+        "connects": "103"
+    },
+    {
+        "id": 105,
+        "date": "2020/03/12 00:00",
+        "sex": "女性",
+        "age": "30代",
+        "nationality": NaN,
+        "city": "豊田市",
+        "reason": "接触",
+        "connects": "42"
+    },
+    {
+        "id": 106,
+        "date": "2020/03/12 00:00",
+        "sex": "男性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "一宮保健所管内",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 107,
+        "date": "2020/03/12 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "66"
+    },
+    {
+        "id": 108,
+        "date": "2020/03/12 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "76"
+    },
+    {
+        "id": 109,
+        "date": "2020/03/12 00:00",
+        "sex": "女性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "90"
+    },
+    {
+        "id": 110,
+        "date": "2020/03/12 00:00",
+        "sex": "女性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "56"
+    },
+    {
+        "id": 111,
+        "date": "2020/03/12 00:00",
+        "sex": "女性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 112,
+        "date": "2020/03/13 00:00",
+        "sex": "女性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "半田市",
+        "reason": "接触",
+        "connects": "36"
+    },
+    {
+        "id": 113,
+        "date": "2020/03/13 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "95"
+    },
+    {
+        "id": 114,
+        "date": "2020/03/13 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "69"
+    },
+    {
+        "id": 115,
+        "date": "2020/03/14 00:00",
+        "sex": "女性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "49"
+    },
+    {
+        "id": 116,
+        "date": "2020/03/14 00:00",
+        "sex": "男性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "115"
+    },
+    {
+        "id": 117,
+        "date": "2020/03/14 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触（娘）",
+        "connects": "49"
+    },
+    {
+        "id": 118,
+        "date": "2020/03/14 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触（娘）",
+        "connects": "55"
+    },
+    {
+        "id": 119,
+        "date": "2020/03/14 00:00",
+        "sex": "女性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "79"
+    },
+    {
+        "id": 120,
+        "date": "2020/03/14 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "95"
+    },
+    {
+        "id": 121,
+        "date": "2020/03/14 00:00",
+        "sex": "女性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "111"
+    },
+    {
+        "id": 122,
+        "date": "2020/03/16 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "一宮市",
+        "reason": "フィリピン",
+        "connects": ""
+    },
+    {
+        "id": 123,
+        "date": "2020/03/16 00:00",
+        "sex": "男性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "48"
+    },
+    {
+        "id": 124,
+        "date": "2020/03/17 00:00",
+        "sex": "女性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "清須市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 125,
+        "date": "2020/03/17 00:00",
+        "sex": "男性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "119"
+    },
+    {
+        "id": 126,
+        "date": "2020/03/18 00:00",
+        "sex": "女性",
+        "age": "40代",
+        "nationality": "外国籍",
+        "city": "一宮市",
+        "reason": "接触",
+        "connects": "122"
+    },
+    {
+        "id": 127,
+        "date": "2020/03/18 00:00",
+        "sex": "女性",
+        "age": "10歳未満",
+        "nationality": "日本",
+        "city": "一宮市",
+        "reason": "接触",
+        "connects": "122"
+    },
+    {
+        "id": 128,
+        "date": "2020/03/18 00:00",
+        "sex": "女性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "武豊町",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 129,
+        "date": "2020/03/18 00:00",
+        "sex": "女性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "49"
+    },
+    {
+        "id": 130,
+        "date": "2020/03/18 00:00",
+        "sex": "女性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 131,
+        "date": "2020/03/19 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "春日井市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 132,
+        "date": "2020/03/19 00:00",
+        "sex": "女性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "江南市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 133,
+        "date": "2020/03/19 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "39"
+    },
+    {
+        "id": 134,
+        "date": "2020/03/19 00:00",
+        "sex": "男性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 135,
+        "date": "2020/03/20 00:00",
+        "sex": "女性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "79"
+    },
+    {
+        "id": 136,
+        "date": "2020/03/20 00:00",
+        "sex": "女性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "75"
+    },
+    {
+        "id": 137,
+        "date": "2020/03/20 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "107"
+    },
+    {
+        "id": 138,
+        "date": "2020/03/20 00:00",
+        "sex": "女性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "90"
+    },
+    {
+        "id": 139,
+        "date": "2020/03/20 00:00",
+        "sex": "男性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 140,
+        "date": "2020/03/21 00:00",
+        "sex": "男性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "知多市",
+        "reason": "ノルウェー",
+        "connects": ""
+    },
+    {
+        "id": 141,
+        "date": "2020/03/21 00:00",
+        "sex": "女性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "知多市",
+        "reason": "接触",
+        "connects": "140"
+    },
+    {
+        "id": 142,
+        "date": "2020/03/22 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "豊川市",
+        "reason": "接触",
+        "connects": "131"
+    },
+    {
+        "id": 143,
+        "date": "2020/03/22 00:00",
+        "sex": "女性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "134"
+    },
+    {
+        "id": 144,
+        "date": "2020/03/23 00:00",
+        "sex": "男性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "岡崎市",
+        "reason": "アメリカ",
+        "connects": ""
+    },
+    {
+        "id": 145,
+        "date": "2020/03/23 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "春日井市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 146,
+        "date": "2020/03/24 00:00",
+        "sex": "男性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "稲沢市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 147,
+        "date": "2020/03/24 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "稲沢市",
+        "reason": "接触（子）",
+        "connects": "146"
+    },
+    {
+        "id": 148,
+        "date": "2020/03/24 00:00",
+        "sex": "女性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触（妻）",
+        "connects": "134"
+    },
+    {
+        "id": 149,
+        "date": "2020/03/25 00:00",
+        "sex": "女性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "稲沢市",
+        "reason": "接触",
+        "connects": "146"
+    },
+    {
+        "id": 150,
+        "date": "2020/03/25 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "春日井市",
+        "reason": "接触",
+        "connects": "145"
+    },
+    {
+        "id": 151,
+        "date": "2020/03/25 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "春日井市",
+        "reason": "接触",
+        "connects": "145"
+    },
+    {
+        "id": 152,
+        "date": "2020/03/25 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "犬山市",
+        "reason": "岐阜県の合唱団",
+        "connects": ""
+    },
+    {
+        "id": 153,
+        "date": "2020/03/25 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "みよし市",
+        "reason": "欧州",
+        "connects": ""
+    },
+    {
+        "id": 154,
+        "date": "2020/03/25 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "134"
+    },
+    {
+        "id": 155,
+        "date": "2020/03/26 00:00",
+        "sex": "男性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "犬山市",
+        "reason": "欧州",
+        "connects": ""
+    },
+    {
+        "id": 156,
+        "date": "2020/03/26 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "67,68,72,96"
+    },
+    {
+        "id": 157,
+        "date": "2020/03/26 00:00",
+        "sex": "女性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "75,76,108"
+    },
+    {
+        "id": 158,
+        "date": "2020/03/27 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "⻑久⼿市",
+        "reason": "接触同じ職場",
+        "connects": "145"
+    },
+    {
+        "id": 159,
+        "date": "2020/03/27 00:00",
+        "sex": "女性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "犬山市",
+        "reason": "岐阜県スポーツジム",
+        "connects": ""
+    },
+    {
+        "id": 160,
+        "date": "2020/03/27 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "134,154"
+    },
+    {
+        "id": 161,
+        "date": "2020/03/28 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "岡崎市",
+        "reason": "欧州",
+        "connects": ""
+    },
+    {
+        "id": 162,
+        "date": "2020/03/28 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "瀬⼾市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 163,
+        "date": "2020/03/28 00:00",
+        "sex": "女性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "犬山市",
+        "reason": "欧州",
+        "connects": ""
+    },
+    {
+        "id": 164,
+        "date": "2020/03/28 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "神奈川県",
+        "connects": ""
+    },
+    {
+        "id": 165,
+        "date": "2020/03/29 00:00",
+        "sex": "女性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "一宮市",
+        "reason": "岐阜発生例",
+        "connects": ""
+    },
+    {
+        "id": 166,
+        "date": "2020/03/29 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "瀬⼾市",
+        "reason": "接触（妻）",
+        "connects": "162"
+    },
+    {
+        "id": 167,
+        "date": "2020/03/29 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "名古屋市事例と接触",
+        "connects": ""
+    },
+    {
+        "id": 168,
+        "date": "2020/03/30 00:00",
+        "sex": "男性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "一宮市",
+        "reason": "接触（夫）",
+        "connects": "165"
+    },
+    {
+        "id": 169,
+        "date": "2020/03/30 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "北名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 170,
+        "date": "2020/03/30 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "北名古屋市",
+        "reason": "接触（妻）",
+        "connects": "169"
+    },
+    {
+        "id": 171,
+        "date": "2020/03/31 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 172,
+        "date": "2020/03/31 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "171"
+    },
+    {
+        "id": 173,
+        "date": "2020/03/31 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "豊田市",
+        "reason": "アメリカ",
+        "connects": ""
+    },
+    {
+        "id": 174,
+        "date": "2020/03/31 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "豊田市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 175,
+        "date": "2020/03/31 00:00",
+        "sex": "女性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "北名古屋市",
+        "reason": "接触",
+        "connects": "169,170"
+    },
+    {
+        "id": 176,
+        "date": "2020/03/31 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "イギリス",
+        "connects": ""
+    },
+    {
+        "id": 177,
+        "date": "2020/03/31 00:00",
+        "sex": "男性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 178,
+        "date": "2020/03/31 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 179,
+        "date": "2020/04/01 00:00",
+        "sex": "男性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "江南市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 180,
+        "date": "2020/04/01 00:00",
+        "sex": "男性",
+        "age": "10代",
+        "nationality": "日本",
+        "city": "一宮市",
+        "reason": "アメリカ",
+        "connects": ""
+    },
+    {
+        "id": 181,
+        "date": "2020/04/01 00:00",
+        "sex": "男性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "134,154,160"
+    },
+    {
+        "id": 182,
+        "date": "2020/04/01 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "179"
+    },
+    {
+        "id": 183,
+        "date": "2020/04/01 00:00",
+        "sex": "女性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 184,
+        "date": "2020/04/02 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "春日井市",
+        "reason": "アメリカ",
+        "connects": ""
+    },
+    {
+        "id": 185,
+        "date": "2020/04/02 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "豊橋市",
+        "reason": "岐阜市事例と接触",
+        "connects": ""
+    },
+    {
+        "id": 186,
+        "date": "2020/04/02 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "岡崎市",
+        "reason": "東京都",
+        "connects": ""
+    },
+    {
+        "id": 187,
+        "date": "2020/04/02 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "一宮市",
+        "reason": "岐阜市事例と接触",
+        "connects": ""
+    },
+    {
+        "id": 188,
+        "date": "2020/04/02 00:00",
+        "sex": "男性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "北名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 189,
+        "date": "2020/04/02 00:00",
+        "sex": "女性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "171,172"
+    },
+    {
+        "id": 190,
+        "date": "2020/04/02 00:00",
+        "sex": "女性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "再感染（No.54)",
+        "connects": ""
+    },
+    {
+        "id": 191,
+        "date": "2020/04/03 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "稲沢市",
+        "reason": "接触",
+        "connects": "179,182"
+    },
+    {
+        "id": 192,
+        "date": "2020/04/03 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "瀬⼾市",
+        "reason": "接触",
+        "connects": "188"
+    },
+    {
+        "id": 193,
+        "date": "2020/04/03 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "東浦町",
+        "reason": "接触",
+        "connects": "179,182"
+    },
+    {
+        "id": 194,
+        "date": "2020/04/03 00:00",
+        "sex": "男性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "常滑市",
+        "reason": "接触",
+        "connects": "179,182"
+    },
+    {
+        "id": 195,
+        "date": "2020/04/03 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "東海市",
+        "reason": "接触",
+        "connects": "179,182"
+    },
+    {
+        "id": 196,
+        "date": "2020/04/03 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "182"
+    },
+    {
+        "id": 197,
+        "date": "2020/04/03 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "182"
+    },
+    {
+        "id": 198,
+        "date": "2020/04/03 00:00",
+        "sex": "男性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "182"
+    },
+    {
+        "id": 199,
+        "date": "2020/04/03 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "ナイジェリア",
+        "connects": ""
+    },
+    {
+        "id": 200,
+        "date": "2020/04/03 00:00",
+        "sex": "女性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 201,
+        "date": "2020/04/03 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 202,
+        "date": "2020/04/03 00:00",
+        "sex": "女性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 203,
+        "date": "2020/04/04 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "豊田市",
+        "reason": "東京都",
+        "connects": ""
+    },
+    {
+        "id": 204,
+        "date": "2020/04/04 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "一宮市",
+        "reason": "タイ",
+        "connects": ""
+    },
+    {
+        "id": 205,
+        "date": "2020/04/04 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "兵庫県",
+        "reason": "兵庫県",
+        "connects": ""
+    },
+    {
+        "id": 206,
+        "date": "2020/04/04 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "稲沢市",
+        "reason": "接触",
+        "connects": "179,182"
+    },
+    {
+        "id": 207,
+        "date": "2020/04/04 00:00",
+        "sex": "女性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "春日井市",
+        "reason": "接触",
+        "connects": "179,182"
+    },
+    {
+        "id": 208,
+        "date": "2020/04/04 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "北名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 209,
+        "date": "2020/04/04 00:00",
+        "sex": "男性",
+        "age": "10代",
+        "nationality": "日本",
+        "city": "大治町",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 210,
+        "date": "2020/04/04 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "⻄尾市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 211,
+        "date": "2020/04/04 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "⻄尾市",
+        "reason": "接触",
+        "connects": "179,182"
+    },
+    {
+        "id": 212,
+        "date": "2020/04/04 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "新城市",
+        "reason": "フランス",
+        "connects": ""
+    },
+    {
+        "id": 213,
+        "date": "2020/04/04 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "⻑久⼿市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 214,
+        "date": "2020/04/04 00:00",
+        "sex": "男性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "182,196,197,198"
+    },
+    {
+        "id": 215,
+        "date": "2020/04/04 00:00",
+        "sex": "男性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "182,196,197,198"
+    },
+    {
+        "id": 216,
+        "date": "2020/04/04 00:00",
+        "sex": "女性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触（妻）",
+        "connects": "215"
+    },
+    {
+        "id": 217,
+        "date": "2020/04/04 00:00",
+        "sex": "女性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "188,192"
+    },
+    {
+        "id": 218,
+        "date": "2020/04/04 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 219,
+        "date": "2020/04/04 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 220,
+        "date": "2020/04/04 00:00",
+        "sex": "男性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 221,
+        "date": "2020/04/04 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 222,
+        "date": "2020/04/05 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "大治町",
+        "reason": "接触",
+        "connects": "209"
+    },
+    {
+        "id": 223,
+        "date": "2020/04/05 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "東浦町",
+        "reason": "接触",
+        "connects": "193"
+    },
+    {
+        "id": 224,
+        "date": "2020/04/05 00:00",
+        "sex": "男性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "⻄尾市",
+        "reason": "接触",
+        "connects": "210"
+    },
+    {
+        "id": 225,
+        "date": "2020/04/05 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "182"
+    },
+    {
+        "id": 226,
+        "date": "2020/04/05 00:00",
+        "sex": "女性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "182"
+    },
+    {
+        "id": 227,
+        "date": "2020/04/05 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "188,192,217"
+    },
+    {
+        "id": 228,
+        "date": "2020/04/05 00:00",
+        "sex": "男性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 229,
+        "date": "2020/04/06 00:00",
+        "sex": "女性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "豊田市",
+        "reason": "オーストラリア",
+        "connects": ""
+    },
+    {
+        "id": 230,
+        "date": "2020/04/06 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "瀬⼾市",
+        "reason": "接触",
+        "connects": "179,182"
+    },
+    {
+        "id": 231,
+        "date": "2020/04/06 00:00",
+        "sex": "女性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "⻑久⼿市",
+        "reason": "接触",
+        "connects": "213"
+    },
+    {
+        "id": 232,
+        "date": "2020/04/06 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "豊明市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 233,
+        "date": "2020/04/06 00:00",
+        "sex": "女性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "豊明市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 234,
+        "date": "2020/04/06 00:00",
+        "sex": "女性",
+        "age": "10代",
+        "nationality": "日本",
+        "city": "北名古屋市",
+        "reason": "接触",
+        "connects": "208"
+    },
+    {
+        "id": 235,
+        "date": "2020/04/06 00:00",
+        "sex": "女性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "東浦町",
+        "reason": "接触（妻）",
+        "connects": "193"
+    },
+    {
+        "id": 236,
+        "date": "2020/04/06 00:00",
+        "sex": "男性",
+        "age": "0歳",
+        "nationality": "日本",
+        "city": "東浦町",
+        "reason": "接触（子）",
+        "connects": "193"
+    },
+    {
+        "id": 237,
+        "date": "2020/04/06 00:00",
+        "sex": "男性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "碧南市",
+        "reason": "接触",
+        "connects": "224"
+    },
+    {
+        "id": 238,
+        "date": "2020/04/06 00:00",
+        "sex": "女性",
+        "age": "10代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 239,
+        "date": "2020/04/06 00:00",
+        "sex": "男性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 240,
+        "date": "2020/04/07 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "東京都",
+        "reason": "東京都",
+        "connects": ""
+    },
+    {
+        "id": 241,
+        "date": "2020/04/07 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "豊橋市",
+        "reason": "接触",
+        "connects": "192"
+    },
+    {
+        "id": 242,
+        "date": "2020/04/07 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "一宮市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 243,
+        "date": "2020/04/07 00:00",
+        "sex": "女性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "東京都",
+        "reason": "東京都",
+        "connects": ""
+    },
+    {
+        "id": 244,
+        "date": "2020/04/07 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "⻑久⼿市",
+        "reason": "アメリカ",
+        "connects": ""
+    },
+    {
+        "id": 245,
+        "date": "2020/04/07 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "⻑久⼿市",
+        "reason": "接触",
+        "connects": "244"
+    },
+    {
+        "id": 246,
+        "date": "2020/04/07 00:00",
+        "sex": "男性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "小牧市",
+        "reason": "接触",
+        "connects": "242"
+    },
+    {
+        "id": 247,
+        "date": "2020/04/07 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "あま市",
+        "reason": "東京都",
+        "connects": ""
+    },
+    {
+        "id": 248,
+        "date": "2020/04/07 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "碧南市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 249,
+        "date": "2020/04/07 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "碧南市",
+        "reason": "接触",
+        "connects": "248"
+    },
+    {
+        "id": 250,
+        "date": "2020/04/07 00:00",
+        "sex": "女性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 251,
+        "date": "2020/04/07 00:00",
+        "sex": "男性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "250"
+    },
+    {
+        "id": 252,
+        "date": "2020/04/07 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触（友人）",
+        "connects": "196"
+    },
+    {
+        "id": 253,
+        "date": "2020/04/07 00:00",
+        "sex": "男性",
+        "age": "10代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "220"
+    },
+    {
+        "id": 254,
+        "date": "2020/04/07 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "221"
+    },
+    {
+        "id": 255,
+        "date": "2020/04/07 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "221"
+    },
+    {
+        "id": 256,
+        "date": "2020/04/07 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "221"
+    },
+    {
+        "id": 257,
+        "date": "2020/04/07 00:00",
+        "sex": "女性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "兵庫県事例と接触",
+        "connects": ""
+    },
+    {
+        "id": 258,
+        "date": "2020/04/07 00:00",
+        "sex": "男性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 259,
+        "date": "2020/04/07 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 260,
+        "date": "2020/04/07 00:00",
+        "sex": "女性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 261,
+        "date": "2020/04/08 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "一宮市",
+        "reason": "東京都",
+        "connects": ""
+    },
+    {
+        "id": 262,
+        "date": "2020/04/08 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "豊明市",
+        "reason": "接触",
+        "connects": "233"
+    },
+    {
+        "id": 263,
+        "date": "2020/04/08 00:00",
+        "sex": "男性",
+        "age": "0歳",
+        "nationality": "日本",
+        "city": "豊明市",
+        "reason": "接触",
+        "connects": "233"
+    },
+    {
+        "id": 264,
+        "date": "2020/04/08 00:00",
+        "sex": "女性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "豊明市",
+        "reason": "接触",
+        "connects": "233"
+    },
+    {
+        "id": 265,
+        "date": "2020/04/08 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "日進市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 266,
+        "date": "2020/04/08 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "北名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 267,
+        "date": "2020/04/08 00:00",
+        "sex": "女性",
+        "age": "10代",
+        "nationality": "日本",
+        "city": "東海市",
+        "reason": "接触",
+        "connects": "195"
+    },
+    {
+        "id": 268,
+        "date": "2020/04/08 00:00",
+        "sex": "女性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "碧南市",
+        "reason": "接触",
+        "connects": "224,237"
+    },
+    {
+        "id": 269,
+        "date": "2020/04/08 00:00",
+        "sex": "男性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "刈谷市",
+        "reason": "接触",
+        "connects": "224,237"
+    },
+    {
+        "id": 270,
+        "date": "2020/04/08 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "みよし市",
+        "reason": "接触",
+        "connects": "230"
+    },
+    {
+        "id": 271,
+        "date": "2020/04/08 00:00",
+        "sex": "男性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "安城市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 272,
+        "date": "2020/04/08 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "182"
+    },
+    {
+        "id": 273,
+        "date": "2020/04/08 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "202"
+    },
+    {
+        "id": 274,
+        "date": "2020/04/08 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "213"
+    },
+    {
+        "id": 275,
+        "date": "2020/04/08 00:00",
+        "sex": "男性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "岐阜県事例と接触",
+        "connects": ""
+    },
+    {
+        "id": 276,
+        "date": "2020/04/08 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "239"
+    },
+    {
+        "id": 277,
+        "date": "2020/04/08 00:00",
+        "sex": "男性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 278,
+        "date": "2020/04/08 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "277"
+    },
+    {
+        "id": 279,
+        "date": "2020/04/08 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 280,
+        "date": "2020/04/08 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 281,
+        "date": "2020/04/09 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "豊橋市",
+        "reason": "接触",
+        "connects": "192"
+    },
+    {
+        "id": 282,
+        "date": "2020/04/09 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "岡崎市",
+        "reason": "接触",
+        "connects": "186"
+    },
+    {
+        "id": 283,
+        "date": "2020/04/09 00:00",
+        "sex": "男性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "岡崎市",
+        "reason": "接触",
+        "connects": "278"
+    },
+    {
+        "id": 284,
+        "date": "2020/04/09 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "岡崎市",
+        "reason": "東京都",
+        "connects": ""
+    },
+    {
+        "id": 285,
+        "date": "2020/04/09 00:00",
+        "sex": "女性",
+        "age": "10歳未満",
+        "nationality": "日本",
+        "city": "一宮市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 286,
+        "date": "2020/04/09 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "一宮市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 287,
+        "date": "2020/04/09 00:00",
+        "sex": "女性",
+        "age": "10代",
+        "nationality": "日本",
+        "city": "一宮市",
+        "reason": "大阪府",
+        "connects": ""
+    },
+    {
+        "id": 288,
+        "date": "2020/04/09 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "一宮市",
+        "reason": "接触",
+        "connects": "246"
+    },
+    {
+        "id": 289,
+        "date": "2020/04/09 00:00",
+        "sex": "女性",
+        "age": "10代",
+        "nationality": "日本",
+        "city": "一宮市",
+        "reason": "接触",
+        "connects": "234"
+    },
+    {
+        "id": 290,
+        "date": "2020/04/09 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "稲沢市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 291,
+        "date": "2020/04/09 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "小牧市",
+        "reason": "大阪府",
+        "connects": ""
+    },
+    {
+        "id": 292,
+        "date": "2020/04/09 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "あま市",
+        "reason": "接触",
+        "connects": "247"
+    },
+    {
+        "id": 293,
+        "date": "2020/04/09 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "碧南市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 294,
+        "date": "2020/04/09 00:00",
+        "sex": "女性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "⻄尾市",
+        "reason": "接触",
+        "connects": "210,224"
+    },
+    {
+        "id": 295,
+        "date": "2020/04/09 00:00",
+        "sex": "男性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "221,254,255,256"
+    },
+    {
+        "id": 296,
+        "date": "2020/04/09 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "259"
+    },
+    {
+        "id": 297,
+        "date": "2020/04/09 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "アメリカ",
+        "connects": ""
+    },
+    {
+        "id": 298,
+        "date": "2020/04/09 00:00",
+        "sex": "男性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "東京都",
+        "connects": ""
+    },
+    {
+        "id": 299,
+        "date": "2020/04/09 00:00",
+        "sex": "女性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "東京都",
+        "connects": ""
+    },
+    {
+        "id": 300,
+        "date": "2020/04/09 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 301,
+        "date": "2020/04/09 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 302,
+        "date": "2020/04/10 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "一宮市",
+        "reason": "接触",
+        "connects": "261"
+    },
+    {
+        "id": 303,
+        "date": "2020/04/10 00:00",
+        "sex": "女性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "春日井市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 304,
+        "date": "2020/04/10 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "蟹江町",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 305,
+        "date": "2020/04/10 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "知多市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 306,
+        "date": "2020/04/10 00:00",
+        "sex": "男性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "神奈川県",
+        "connects": ""
+    },
+    {
+        "id": 307,
+        "date": "2020/04/10 00:00",
+        "sex": "女性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "221"
+    },
+    {
+        "id": 308,
+        "date": "2020/04/10 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "221"
+    },
+    {
+        "id": 309,
+        "date": "2020/04/10 00:00",
+        "sex": "女性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "213"
+    },
+    {
+        "id": 310,
+        "date": "2020/04/10 00:00",
+        "sex": "女性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "274"
+    },
+    {
+        "id": 311,
+        "date": "2020/04/10 00:00",
+        "sex": "男性",
+        "age": "10代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "274"
+    },
+    {
+        "id": 312,
+        "date": "2020/04/10 00:00",
+        "sex": "女性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "278"
+    },
+    {
+        "id": 313,
+        "date": "2020/04/10 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "277,278"
+    },
+    {
+        "id": 314,
+        "date": "2020/04/10 00:00",
+        "sex": "女性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "東京都",
+        "connects": ""
+    },
+    {
+        "id": 315,
+        "date": "2020/04/10 00:00",
+        "sex": "女性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 316,
+        "date": "2020/04/11 00:00",
+        "sex": "男性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "豊橋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 317,
+        "date": "2020/04/11 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "岡崎市",
+        "reason": "接触",
+        "connects": "186"
+    },
+    {
+        "id": 318,
+        "date": "2020/04/11 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "春日井市",
+        "reason": "接触",
+        "connects": "280"
+    },
+    {
+        "id": 319,
+        "date": "2020/04/11 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "小牧市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 320,
+        "date": "2020/04/11 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "津島市",
+        "reason": "接触",
+        "connects": "280"
+    },
+    {
+        "id": 321,
+        "date": "2020/04/11 00:00",
+        "sex": "女性",
+        "age": "0歳",
+        "nationality": "日本",
+        "city": "蟹江町",
+        "reason": "接触",
+        "connects": "304"
+    },
+    {
+        "id": 322,
+        "date": "2020/04/11 00:00",
+        "sex": "男性",
+        "age": "10歳未満",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "274,310,311"
+    },
+    {
+        "id": 323,
+        "date": "2020/04/11 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "280"
+    },
+    {
+        "id": 324,
+        "date": "2020/04/11 00:00",
+        "sex": "男性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 325,
+        "date": "2020/04/11 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "大阪府",
+        "connects": ""
+    },
+    {
+        "id": 326,
+        "date": "2020/04/12 00:00",
+        "sex": "男性",
+        "age": "10歳未満",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "310"
+    },
+    {
+        "id": 327,
+        "date": "2020/04/12 00:00",
+        "sex": "男性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "304"
+    },
+    {
+        "id": 328,
+        "date": "2020/04/13 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "大治町",
+        "reason": "接触",
+        "connects": "310"
+    },
+    {
+        "id": 329,
+        "date": "2020/04/13 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "東京都",
+        "reason": "東京都",
+        "connects": ""
+    },
+    {
+        "id": 330,
+        "date": "2020/04/13 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "知多市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 331,
+        "date": "2020/04/13 00:00",
+        "sex": "女性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "豊橋市",
+        "reason": "接触",
+        "connects": "316"
+    },
+    {
+        "id": 332,
+        "date": "2020/04/13 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "扶桑町",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 333,
+        "date": "2020/04/13 00:00",
+        "sex": "男性",
+        "age": "90代",
+        "nationality": "日本",
+        "city": "⻄尾市",
+        "reason": "接触",
+        "connects": "224,237"
+    },
+    {
+        "id": 334,
+        "date": "2020/04/13 00:00",
+        "sex": "男性",
+        "age": "10歳未満",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "310"
+    },
+    {
+        "id": 335,
+        "date": "2020/04/13 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 336,
+        "date": "2020/04/13 00:00",
+        "sex": "女性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 337,
+        "date": "2020/04/14 00:00",
+        "sex": "女性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "蟹江町",
+        "reason": "接触",
+        "connects": "304,321"
+    },
+    {
+        "id": 338,
+        "date": "2020/04/14 00:00",
+        "sex": "男性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "⻄尾市",
+        "reason": "接触",
+        "connects": "224,237,333"
+    },
+    {
+        "id": 339,
+        "date": "2020/04/14 00:00",
+        "sex": "男性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "豊川市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 340,
+        "date": "2020/04/14 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "279"
+    },
+    {
+        "id": 341,
+        "date": "2020/04/14 00:00",
+        "sex": "男性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "291"
+    },
+    {
+        "id": 342,
+        "date": "2020/04/14 00:00",
+        "sex": "男性",
+        "age": "10歳未満",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "310"
+    },
+    {
+        "id": 343,
+        "date": "2020/04/14 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "東京都",
+        "connects": ""
+    },
+    {
+        "id": 344,
+        "date": "2020/04/14 00:00",
+        "sex": "女性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 345,
+        "date": "2020/04/14 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 346,
+        "date": "2020/04/14 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 347,
+        "date": "2020/04/15 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "一宮市",
+        "reason": "接触",
+        "connects": "310"
+    },
+    {
+        "id": 348,
+        "date": "2020/04/15 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "小牧市",
+        "reason": "接触",
+        "connects": "280"
+    },
+    {
+        "id": 349,
+        "date": "2020/04/15 00:00",
+        "sex": "男性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "小牧市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 350,
+        "date": "2020/04/15 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "常滑市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 351,
+        "date": "2020/04/15 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "知多市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 352,
+        "date": "2020/04/15 00:00",
+        "sex": "女性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "知多市",
+        "reason": "接触",
+        "connects": "330"
+    },
+    {
+        "id": 353,
+        "date": "2020/04/15 00:00",
+        "sex": "女性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "知多市",
+        "reason": "接触",
+        "connects": "330"
+    },
+    {
+        "id": 354,
+        "date": "2020/04/15 00:00",
+        "sex": "男性",
+        "age": "30代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "304"
+    },
+    {
+        "id": 355,
+        "date": "2020/04/15 00:00",
+        "sex": "女性",
+        "age": "30代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "346"
+    },
+    {
+        "id": 356,
+        "date": "2020/04/15 00:00",
+        "sex": "女性",
+        "age": "20代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "再感染（No.35）",
+        "connects": ""
+    },
+    {
+        "id": 357,
+        "date": "2020/04/15 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 358,
+        "date": "2020/04/15 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 359,
+        "date": "2020/04/16 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "一宮市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 360,
+        "date": "2020/04/16 00:00",
+        "sex": "男性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "一宮市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 361,
+        "date": "2020/04/16 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "清須市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 362,
+        "date": "2020/04/16 00:00",
+        "sex": "男性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "清須市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 363,
+        "date": "2020/04/16 00:00",
+        "sex": "女性",
+        "age": "30代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "326"
+    },
+    {
+        "id": 364,
+        "date": "2020/04/16 00:00",
+        "sex": "女性",
+        "age": "20代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "335"
+    },
+    {
+        "id": 365,
+        "date": "2020/04/16 00:00",
+        "sex": "男性",
+        "age": "70代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "344"
+    },
+    {
+        "id": 366,
+        "date": "2020/04/16 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "346"
+    },
+    {
+        "id": 367,
+        "date": "2020/04/16 00:00",
+        "sex": "女性",
+        "age": "20代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "346"
+    },
+    {
+        "id": 368,
+        "date": "2020/04/16 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "367"
+    },
+    {
+        "id": 369,
+        "date": "2020/04/16 00:00",
+        "sex": "女性",
+        "age": "40代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 370,
+        "date": "2020/04/16 00:00",
+        "sex": "女性",
+        "age": "80代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 371,
+        "date": "2020/04/16 00:00",
+        "sex": "男性",
+        "age": "80代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 372,
+        "date": "2020/04/16 00:00",
+        "sex": "男性",
+        "age": "30代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 373,
+        "date": "2020/04/17 00:00",
+        "sex": "男性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "豊田市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 374,
+        "date": "2020/04/17 00:00",
+        "sex": "男性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "碧南市",
+        "reason": "接触",
+        "connects": "224"
+    },
+    {
+        "id": 375,
+        "date": "2020/04/17 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "知立市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 376,
+        "date": "2020/04/17 00:00",
+        "sex": "女性",
+        "age": "30代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "220"
+    },
+    {
+        "id": 377,
+        "date": "2020/04/17 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "310"
+    },
+    {
+        "id": 378,
+        "date": "2020/04/17 00:00",
+        "sex": "女性",
+        "age": "10歳未満",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "310"
+    },
+    {
+        "id": 379,
+        "date": "2020/04/17 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 380,
+        "date": "2020/04/17 00:00",
+        "sex": "女性",
+        "age": "20代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "379"
+    },
+    {
+        "id": 381,
+        "date": "2020/04/17 00:00",
+        "sex": "女性",
+        "age": "40代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 382,
+        "date": "2020/04/17 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 383,
+        "date": "2020/04/18 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "一宮市",
+        "reason": "接触",
+        "connects": "323"
+    },
+    {
+        "id": 384,
+        "date": "2020/04/18 00:00",
+        "sex": "女性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "一宮市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 385,
+        "date": "2020/04/18 00:00",
+        "sex": "女性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "阿久比町",
+        "reason": "接触",
+        "connects": "352"
+    },
+    {
+        "id": 386,
+        "date": "2020/04/18 00:00",
+        "sex": "女性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "知多市",
+        "reason": "接触",
+        "connects": "352"
+    },
+    {
+        "id": 387,
+        "date": "2020/04/18 00:00",
+        "sex": "女性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "知多市",
+        "reason": "接触",
+        "connects": "352"
+    },
+    {
+        "id": 388,
+        "date": "2020/04/18 00:00",
+        "sex": "女性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "知多市",
+        "reason": "接触",
+        "connects": "352"
+    },
+    {
+        "id": 389,
+        "date": "2020/04/18 00:00",
+        "sex": "女性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "知多市",
+        "reason": "接触",
+        "connects": "352"
+    },
+    {
+        "id": 390,
+        "date": "2020/04/18 00:00",
+        "sex": "女性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "知多市",
+        "reason": "接触",
+        "connects": "352"
+    },
+    {
+        "id": 391,
+        "date": "2020/04/18 00:00",
+        "sex": "女性",
+        "age": "90代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "再感染",
+        "connects": ""
+    },
+    {
+        "id": 392,
+        "date": "2020/04/18 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "再感染",
+        "connects": ""
+    },
+    {
+        "id": 393,
+        "date": "2020/04/18 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "371"
+    },
+    {
+        "id": 394,
+        "date": "2020/04/18 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "372"
+    },
+    {
+        "id": 395,
+        "date": "2020/04/18 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "372"
+    },
+    {
+        "id": 396,
+        "date": "2020/04/18 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "372"
+    },
+    {
+        "id": 397,
+        "date": "2020/04/18 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "379"
+    },
+    {
+        "id": 398,
+        "date": "2020/04/18 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 399,
+        "date": "2020/04/18 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 400,
+        "date": "2020/04/19 00:00",
+        "sex": "男性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "江南市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 401,
+        "date": "2020/04/19 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "清須市",
+        "reason": "接触",
+        "connects": "361"
+    },
+    {
+        "id": 402,
+        "date": "2020/04/19 00:00",
+        "sex": "女性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "一宮市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 403,
+        "date": "2020/04/19 00:00",
+        "sex": "男性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "稲沢市",
+        "reason": "接触",
+        "connects": "346"
+    },
+    {
+        "id": 404,
+        "date": "2020/04/19 00:00",
+        "sex": "女性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "稲沢市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 405,
+        "date": "2020/04/19 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "大府市",
+        "reason": "接触",
+        "connects": "379"
+    },
+    {
+        "id": 406,
+        "date": "2020/04/19 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "266"
+    },
+    {
+        "id": 407,
+        "date": "2020/04/19 00:00",
+        "sex": "男性",
+        "age": "30代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "379,397"
+    },
+    {
+        "id": 408,
+        "date": "2020/04/19 00:00",
+        "sex": "女性",
+        "age": "20代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "407"
+    },
+    {
+        "id": 409,
+        "date": "2020/04/19 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 410,
+        "date": "2020/04/20 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "⻑久⼿市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 411,
+        "date": "2020/04/20 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "知多市",
+        "reason": "接触",
+        "connects": "386"
+    },
+    {
+        "id": 412,
+        "date": "2020/04/20 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "410"
+    },
+    {
+        "id": 413,
+        "date": "2020/04/20 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "310"
+    },
+    {
+        "id": 414,
+        "date": "2020/04/20 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 415,
+        "date": "2020/04/21 00:00",
+        "sex": "女性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "一宮市",
+        "reason": "接触",
+        "connects": "276"
+    },
+    {
+        "id": 416,
+        "date": "2020/04/21 00:00",
+        "sex": "女性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "一宮市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 417,
+        "date": "2020/04/21 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "稲沢市",
+        "reason": "接触",
+        "connects": "379"
+    },
+    {
+        "id": 418,
+        "date": "2020/04/21 00:00",
+        "sex": "男性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "稲沢市",
+        "reason": "接触",
+        "connects": "361"
+    },
+    {
+        "id": 419,
+        "date": "2020/04/21 00:00",
+        "sex": "女性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "刈谷市",
+        "reason": "接触",
+        "connects": "224"
+    },
+    {
+        "id": 420,
+        "date": "2020/04/21 00:00",
+        "sex": "女性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "安城市",
+        "reason": "接触",
+        "connects": "224"
+    },
+    {
+        "id": 421,
+        "date": "2020/04/21 00:00",
+        "sex": "女性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "⻄尾市",
+        "reason": "接触",
+        "connects": "224"
+    },
+    {
+        "id": 422,
+        "date": "2020/04/21 00:00",
+        "sex": "女性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "碧南市",
+        "reason": "接触",
+        "connects": "224"
+    },
+    {
+        "id": 423,
+        "date": "2020/04/21 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "326,363"
+    },
+    {
+        "id": 424,
+        "date": "2020/04/21 00:00",
+        "sex": "女性",
+        "age": "20代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "379"
+    },
+    {
+        "id": 425,
+        "date": "2020/04/21 00:00",
+        "sex": "女性",
+        "age": "20代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "379"
+    },
+    {
+        "id": 426,
+        "date": "2020/04/21 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "425"
+    },
+    {
+        "id": 427,
+        "date": "2020/04/21 00:00",
+        "sex": "女性",
+        "age": "40代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "396"
+    },
+    {
+        "id": 428,
+        "date": "2020/04/21 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 429,
+        "date": "2020/04/21 00:00",
+        "sex": "女性",
+        "age": "60代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 430,
+        "date": "2020/04/21 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 431,
+        "date": "2020/04/22 00:00",
+        "sex": "男性",
+        "age": "10歳未満",
+        "nationality": "日本",
+        "city": "一宮市",
+        "reason": "接触",
+        "connects": "402"
+    },
+    {
+        "id": 432,
+        "date": "2020/04/22 00:00",
+        "sex": "男性",
+        "age": "10歳未満",
+        "nationality": "日本",
+        "city": "一宮市",
+        "reason": "接触",
+        "connects": "402"
+    },
+    {
+        "id": 433,
+        "date": "2020/04/22 00:00",
+        "sex": "女性",
+        "age": "10歳未満",
+        "nationality": "日本",
+        "city": "一宮市",
+        "reason": "接触",
+        "connects": "402"
+    },
+    {
+        "id": 434,
+        "date": "2020/04/22 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "瀬⼾市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 435,
+        "date": "2020/04/22 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "岩倉市",
+        "reason": "接触",
+        "connects": "366"
+    },
+    {
+        "id": 436,
+        "date": "2020/04/22 00:00",
+        "sex": "女性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "岩倉市",
+        "reason": "接触",
+        "connects": "435"
+    },
+    {
+        "id": 437,
+        "date": "2020/04/22 00:00",
+        "sex": "女性",
+        "age": "10代",
+        "nationality": "日本",
+        "city": "岩倉市",
+        "reason": "接触",
+        "connects": "435"
+    },
+    {
+        "id": 438,
+        "date": "2020/04/22 00:00",
+        "sex": "女性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "碧南市",
+        "reason": "接触",
+        "connects": "422"
+    },
+    {
+        "id": 439,
+        "date": "2020/04/22 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "大治町",
+        "reason": "接触",
+        "connects": "328"
+    },
+    {
+        "id": 440,
+        "date": "2020/04/22 00:00",
+        "sex": "男性",
+        "age": "90代",
+        "nationality": "日本",
+        "city": "知多市",
+        "reason": "接触",
+        "connects": "390"
+    },
+    {
+        "id": 441,
+        "date": "2020/04/22 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "366"
+    },
+    {
+        "id": 442,
+        "date": "2020/04/22 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "379,417"
+    },
+    {
+        "id": 443,
+        "date": "2020/04/22 00:00",
+        "sex": "女性",
+        "age": "40代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "442"
+    },
+    {
+        "id": 444,
+        "date": "2020/04/22 00:00",
+        "sex": "女性",
+        "age": "10歳未満",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "442,443"
+    },
+    {
+        "id": 445,
+        "date": "2020/04/22 00:00",
+        "sex": "男性",
+        "age": "90代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "410"
+    },
+    {
+        "id": 446,
+        "date": "2020/04/22 00:00",
+        "sex": "女性",
+        "age": "60代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "445"
+    },
+    {
+        "id": 447,
+        "date": "2020/04/22 00:00",
+        "sex": "女性",
+        "age": "20代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "417"
+    },
+    {
+        "id": 448,
+        "date": "2020/04/22 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 449,
+        "date": "2020/04/22 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 450,
+        "date": "2020/04/23 00:00",
+        "sex": "男性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "豊明市",
+        "reason": "接触",
+        "connects": "379"
+    },
+    {
+        "id": 451,
+        "date": "2020/04/23 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "津島市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 452,
+        "date": "2020/04/23 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "知多市",
+        "reason": "接触",
+        "connects": "387"
+    },
+    {
+        "id": 453,
+        "date": "2020/04/23 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "知多市",
+        "reason": "接触",
+        "connects": "389"
+    },
+    {
+        "id": 454,
+        "date": "2020/04/23 00:00",
+        "sex": "男性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "知多市",
+        "reason": "接触",
+        "connects": "390"
+    },
+    {
+        "id": 455,
+        "date": "2020/04/23 00:00",
+        "sex": "女性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "知多市",
+        "reason": "接触",
+        "connects": "390"
+    },
+    {
+        "id": 456,
+        "date": "2020/04/23 00:00",
+        "sex": "女性",
+        "age": "10代",
+        "nationality": "日本",
+        "city": "岩倉市",
+        "reason": "接触",
+        "connects": "435,436,437"
+    },
+    {
+        "id": 457,
+        "date": "2020/04/23 00:00",
+        "sex": "女性",
+        "age": "20代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "379,417,424,425"
+    },
+    {
+        "id": 458,
+        "date": "2020/04/23 00:00",
+        "sex": "女性",
+        "age": "20代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "379,417,424,425"
+    },
+    {
+        "id": 459,
+        "date": "2020/04/23 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "379,417,424,425"
+    },
+    {
+        "id": 460,
+        "date": "2020/04/23 00:00",
+        "sex": "女性",
+        "age": "40代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "430"
+    },
+    {
+        "id": 461,
+        "date": "2020/04/23 00:00",
+        "sex": "女性",
+        "age": "20代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "430"
+    },
+    {
+        "id": 462,
+        "date": "2020/04/24 00:00",
+        "sex": "女性",
+        "age": "20代",
+        "nationality": NaN,
+        "city": "豊田市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 463,
+        "date": "2020/04/24 00:00",
+        "sex": "女性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "一宮市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 464,
+        "date": "2020/04/24 00:00",
+        "sex": "女性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "大府市",
+        "reason": "接触",
+        "connects": "405"
+    },
+    {
+        "id": 465,
+        "date": "2020/04/24 00:00",
+        "sex": "女性",
+        "age": "70代",
+        "nationality": "日本",
+        "city": "知多市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 466,
+        "date": "2020/04/24 00:00",
+        "sex": "女性",
+        "age": "10歳未満",
+        "nationality": "日本",
+        "city": "知多市",
+        "reason": "接触",
+        "connects": "390,454,455"
+    },
+    {
+        "id": 467,
+        "date": "2020/04/24 00:00",
+        "sex": "男性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "知多市",
+        "reason": "接触",
+        "connects": "390,454,455"
+    },
+    {
+        "id": 468,
+        "date": "2020/04/24 00:00",
+        "sex": "女性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "知多市",
+        "reason": "接触",
+        "connects": "390,454,455"
+    },
+    {
+        "id": 469,
+        "date": "2020/04/24 00:00",
+        "sex": "男性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "刈谷市",
+        "reason": "接触",
+        "connects": "417"
+    },
+    {
+        "id": 470,
+        "date": "2020/04/24 00:00",
+        "sex": "女性",
+        "age": "20代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "424"
+    },
+    {
+        "id": 471,
+        "date": "2020/04/24 00:00",
+        "sex": "女性",
+        "age": "60代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "428"
+    },
+    {
+        "id": 472,
+        "date": "2020/04/24 00:00",
+        "sex": "女性",
+        "age": "20代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "441"
+    },
+    {
+        "id": 473,
+        "date": "2020/04/24 00:00",
+        "sex": "男性",
+        "age": "10代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "442"
+    },
+    {
+        "id": 474,
+        "date": "2020/04/24 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 475,
+        "date": "2020/04/24 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 476,
+        "date": "2020/04/25 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "豊橋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 477,
+        "date": "2020/04/26 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "あま市",
+        "reason": "接触",
+        "connects": "247"
+    },
+    {
+        "id": 478,
+        "date": "2020/04/28 00:00",
+        "sex": "女性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "北名古屋市",
+        "reason": "接触",
+        "connects": "361"
+    },
+    {
+        "id": 479,
+        "date": "2020/04/28 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "高浜市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 480,
+        "date": "2020/04/28 00:00",
+        "sex": "女性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "小牧市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 481,
+        "date": "2020/04/28 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "459"
+    },
+    {
+        "id": 482,
+        "date": "2020/04/28 00:00",
+        "sex": "女性",
+        "age": "70代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "459"
+    },
+    {
+        "id": 483,
+        "date": "2020/04/29 00:00",
+        "sex": "男性",
+        "age": "80代",
+        "nationality": "日本",
+        "city": "知多市",
+        "reason": "接触",
+        "connects": "465"
+    },
+    {
+        "id": 484,
+        "date": "2020/04/29 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": "日本",
+        "city": "刈谷市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 485,
+        "date": "2020/04/29 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "津島市",
+        "reason": "接触",
+        "connects": "451"
+    },
+    {
+        "id": 486,
+        "date": "2020/04/29 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 487,
+        "date": "2020/04/30 00:00",
+        "sex": "男性",
+        "age": "50代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 488,
+        "date": "2020/05/01 00:00",
+        "sex": "男性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "弥富市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 489,
+        "date": "2020/05/01 00:00",
+        "sex": "女性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "刈谷市",
+        "reason": "接触",
+        "connects": "469"
+    },
+    {
+        "id": 490,
+        "date": "2020/05/01 00:00",
+        "sex": "男性",
+        "age": "20代",
+        "nationality": "日本",
+        "city": "半田市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 491,
+        "date": "2020/05/03 00:00",
+        "sex": "女性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "知多市",
+        "reason": "再感染（No.353)",
+        "connects": ""
+    },
+    {
+        "id": 492,
+        "date": "2020/05/03 00:00",
+        "sex": "女性",
+        "age": "50代",
+        "nationality": NaN,
+        "city": "名古屋市",
+        "reason": "接触",
+        "connects": "424,470"
+    },
+    {
+        "id": 493,
+        "date": "2020/05/04 00:00",
+        "sex": "男性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "半田市",
+        "reason": "接触",
+        "connects": "490"
+    },
+    {
+        "id": 494,
+        "date": "2020/05/04 00:00",
+        "sex": "女性",
+        "age": "60代",
+        "nationality": "日本",
+        "city": "知多市",
+        "reason": "接触",
+        "connects": "389,453"
+    },
+    {
+        "id": 495,
+        "date": "2020/05/04 00:00",
+        "sex": "女性",
+        "age": "60代",
+        "nationality": NaN,
+        "city": "豊田市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 496,
+        "date": "2020/05/05 00:00",
+        "sex": "男性",
+        "age": "40代",
+        "nationality": "日本",
+        "city": "一宮市",
+        "reason": "不明",
+        "connects": ""
+    },
+    {
+        "id": 497,
+        "date": "2020/05/05 00:00",
+        "sex": "男性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "みよし市",
+        "reason": "接触",
+        "connects": "495"
+    },
+    {
+        "id": 498,
+        "date": "2020/05/05 00:00",
+        "sex": "女性",
+        "age": "30代",
+        "nationality": "日本",
+        "city": "みよし市",
+        "reason": "接触",
+        "connects": "495"
+    }
+]
