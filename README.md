@@ -19,6 +19,7 @@ https://github.com/nkawa/covid19-aichi-infection/blob/master/covid19_aichi202005
 ## 利用データ
 「愛知県内の感染者・遺伝子検査件数」
 （なお、一部の接触者で「又は」という表現がありますが、両方からのリンクを生成しています）
+また、変換中のバグ等により、誤ったリンクが張られている可能性もあります。適宜更新予定。
 
 https://www.pref.aichi.jp/site/covid19-aichi/kansensya-kensa.html
 
