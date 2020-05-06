@@ -2,7 +2,7 @@
 
 感染がどのように起こっているか、COVID-19「愛知県内の感染者・遺伝子検査件数」の情報を用いて感染者間の関係をグラフにしてみました。
 
-https://github.com/nkawa/covid19-aichi-infection/blob/master/covid19_aichi20200505.svg
+![SVG](https://github.com/nkawa/covid19-aichi-infection/blob/master/covid19_aichi20200505.svg)
 
 https://github.com/nkawa/covid19-aichi-infection/blob/master/covid19_aichi20200505.pdf
 
